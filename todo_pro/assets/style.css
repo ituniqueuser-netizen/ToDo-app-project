@@ -1,0 +1,21 @@
+body {
+    background: #f4f7ff;
+    font-family: Arial;
+}
+
+.card {
+    border-radius: 12px;
+}
+
+.task-item {
+    padding: 10px 0;
+}
+
+.task-item:hover {
+    background: #f8f9ff;
+    border-radius: 8px;
+}
+
+.btn {
+    border-radius: 8px;
+}
